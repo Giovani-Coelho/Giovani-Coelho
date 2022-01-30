@@ -6,7 +6,7 @@
 
 -   👨‍💻 soon there will be projects
 
--   ⚡ I want to learn Node.js, nest.js, adonis.js
+-   ⚡I am learning Node.js, express.js, nest.js, adonis.js
 
 <br>
 
