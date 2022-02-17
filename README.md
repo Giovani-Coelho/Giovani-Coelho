@@ -9,8 +9,8 @@
 -   ⚡I am learning Node.js, express.js, nest.js, adonis.js
 <br>
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovani-Coelho&theme=radical&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Coelho&layout=compact&langs_count=8&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovani-Coelho&theme=dark&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Coelho&layout=compact&langs_count=8&theme=dark" />
 </div>
 <br>
 
