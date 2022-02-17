@@ -4,8 +4,6 @@
 
 -   🔥 beginner in programming
 
--   👨‍💻 soon there will be projects
-
 -   ⚡I am learning Node.js, express.js, nest.js, adonis.js
 <br>
 <div>
