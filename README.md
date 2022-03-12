@@ -4,7 +4,10 @@
 
 -   🔥 beginner in programming
 
--   ⚡I am learning Node.js, express.js, nest.js, adonis.js
+-   ⚡ I am learning Node.js, express.js
+
+-   🍃 Future learnings: Nest.js
+
 <br>
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovani-Coelho&theme=dark&show_icons=true" />
