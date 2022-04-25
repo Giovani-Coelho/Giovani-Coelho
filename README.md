@@ -25,3 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br><br>
+
+<div>
+      <a href="https://www.linkedin.com/in/giovani-coelho-7a1269238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?          style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
