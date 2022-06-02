@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Giovani Coelho</h1>
 
-<h2 align="center">🥕Back-end🥕</h2>
+<h2 align="center">🥕 Back-end 🥕</h2>
 
 -   🔥 beginner in programming
 
 -   ⚡ I am learning Node.js, express.js
 
--   🍃 Future learnings: Nest.js
+-   💻 looking for an internship opportunity
+
+-   🍃 Willing to learn new technologies
 
 <br>
 <div>
