@@ -6,9 +6,11 @@
 
 -   ⚡ I am learning Node.js, express.js
 
--   💻 looking for an internship opportunity
+-   💻 Looking for an internship opportunity
 
 -   🍃 Willing to learn new technologies
+
+-   🎯 Interest: Nest.js, Java, GO!
 
 <br>
 <div>
