@@ -10,7 +10,7 @@
 
 -   🍃 Willing to learn new technologies
 
--   🎯 Interest: Nest.js, Java, GO!
+-   🎯 Interest: Nest.js, Java, GO
 
 <br>
 <div>
