@@ -2,8 +2,6 @@
 
 <h2 align="center">🥕 Back-end 🥕</h2>
 
--   🔥 beginner in programming
-
 -   ⚡ I am learning Node.js, express.js
 
 -   💻 Looking for an internship opportunity
