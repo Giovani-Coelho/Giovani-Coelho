@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giovani Coelho</h1>
 
-<h2 align="center">🥕 Back-end 🥕</h2>
-
--   ⚡ I am learning Node.js, express.js
-
--   💻 Looking for an internship opportunity
-
--   🍃 Willing to learn new technologies
-
--   🎯 Interest: Java, GO
-
 <br>
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovani-Coelho&theme=dark&show_icons=true" />
