@@ -2,10 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=HELLO+👋,+I'm+Giovani+Coelho;Be+Welcome!+😉)](https://git.io/typing-svg)
 
-<br>
-
 <div align="center">
-<img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Coelho&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=444c5600" />
+<img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Coelho&hide_title=true&layout=compact&hide_border=true&title_color=FFF&text_bold=true&text_color=FFF&bg_color=444c5600" />
 </div>
 
 <br>
