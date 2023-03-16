@@ -9,16 +9,15 @@
 </div>
 
 <br>
-
-<div align="center" style="display: inline-block, margin:1rem 0" >
-    <img align="center" alt="Giovani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-    <img align="center" alt="Giovani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-    <img align="center" alt="Giovani-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="Giovani-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-    <img align="center" alt="Giovani-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-<br><br>
-<div>
-      <a href="https://www.linkedin.com/in/giovani-coelho-7a1269238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?          style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,docker,prisma,nodejs,express,java" />
+  </a>
+</p>
+<div align="center">
+        <a href="https://www.linkedin.com/in/giovani-coelho-7a1269238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5? style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>    
+</div>
+      
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer"/>
